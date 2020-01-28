@@ -1,0 +1,16 @@
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\tools\install.ps1
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\tools\uninstall.ps1
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\MakeConst.vsix
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\extension.vsixmanifest
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\MakeConst.dll
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\System.Collections.Immutable.dll
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\bin\Debug\MakeConst.pdb
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\MakeConst.Vsix.csprojAssemblyReference.cache
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\_EmptyResource.resources
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\MakeConst.Vsix.csproj.GenerateResource.cache
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\MakeConst.Vsix.csproj.CopyComplete
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\MakeConst.dll
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\MakeConst.pdb
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\extension.vsixmanifest
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\files.json
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst.Vsix\obj\Debug\createTemplateManifests.cache

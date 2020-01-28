@@ -1,0 +1,12 @@
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\bin\Debug\netstandard1.3\tools\install.ps1
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\bin\Debug\netstandard1.3\tools\uninstall.ps1
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\bin\Debug\netstandard1.3\MakeConst.deps.json
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\bin\Debug\netstandard1.3\MakeConst.dll
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\bin\Debug\netstandard1.3\MakeConst.pdb
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.csprojAssemblyReference.cache
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.Resources.resources
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.csproj.GenerateResource.cache
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.AssemblyInfoInputs.cache
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.AssemblyInfo.cs
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.dll
+D:\C# Analyzer\SyntaxTransformationQuickStart\MakeConst\MakeConst\obj\Debug\netstandard1.3\MakeConst.pdb
